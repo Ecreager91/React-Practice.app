@@ -1,4 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom"
-import Compo from "./component"
+import myApp from "./MyApp"
+
+
 ReactDOM.render(<MyApp/>, document.getElementById("root"))
