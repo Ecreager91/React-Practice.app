@@ -1,8 +1,11 @@
 import React from "react"
 import Compo from "./component"
-function MyApp(){
+
+function myApp(){
     return(
+        <div>
         <Compo />
+        </div>
     )
 }
 
