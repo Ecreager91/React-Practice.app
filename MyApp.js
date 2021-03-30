@@ -1,4 +1,4 @@
-import react from "react"
+import React from "react"
 import Compo from "./component"
 function MyApp(){
     return(
