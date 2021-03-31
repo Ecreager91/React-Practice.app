@@ -1,7 +1,7 @@
 import React from "react"
 import Compo from "./component"
 
-function myApp(){
+function MyApp(){
     return(
         <div>
         <Compo />
