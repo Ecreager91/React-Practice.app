@@ -1,6 +1,6 @@
 import React from "react"
 
-function compo(){
+function Compo(){
     return(
         <div>
         <h2>This is my Compo Component!</h2>
